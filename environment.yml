@@ -1,0 +1,10 @@
+name: pdf-gpt-query
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pypdf
+  - tiktoken
+  - faiss-cpu
+  - langchain
+  - openai

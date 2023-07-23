@@ -1,0 +1,18 @@
+__pycache__/
+
+.env
+.env.test
+
+# Distribution / packaging
+*.egg-info/
+
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+## PyCharm
+.idea/
